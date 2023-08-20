@@ -17,7 +17,7 @@ public class Blackjack {
     System.out.println(" _/_/    _/    _/    _/_/_/  _/    _/       ");
     System.out.println("\n\n");
     
-    System.out.println("\n@irisoflys on Github");
+    System.out.println("\nliz lorena berberena");
     System.out.println("ascii font lean from http://www.network-science.de/ascii/");
     Deck deck = new Deck();
     System.out.println("\nType Y for Instructions or any other character to continue");
